@@ -4,7 +4,7 @@ title:      Hello World!
 subtitle:   from Beijing
 date:       2019-10-10
 author:     wuruiliang
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/home-bg-o.jpg
 catalog: 	 true
 tags:
     - java
