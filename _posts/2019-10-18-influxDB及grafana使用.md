@@ -7,9 +7,9 @@ author:          wuruiliang
 header-img:      omg/blur-chart-data-159888.jpg
 catalog:         true
 tags:
-	- 监控
-	- influxDB
-	- grafana
+    - 监控
+    - influxDB
+    - grafana
 ---
 
 Test
